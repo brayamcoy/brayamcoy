@@ -2,7 +2,7 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Brayan Coy
 
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://portafolio-brdavid.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://brayancoy.dev/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/brayamcoy)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-david-coy-3325191b1/)
 
