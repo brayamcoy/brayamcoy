@@ -11,7 +11,6 @@
 **About Me:**
 
 - I’m a Full Stack Developer and also I'd like to work in mobile development.
-- I’m currently working on __[Torrens University](https://www.torrens.edu.au)__.
 - I’m currently learning __Java__, __Flutter__, & __React Native__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
